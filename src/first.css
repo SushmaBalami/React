@@ -1,0 +1,19 @@
+.title{
+    color: rgb(38, 180, 69);
+    background-color: aquamarine;
+}
+.style {
+    display: flex;
+    list-style-type: none;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+
+.list{
+    color: black;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
